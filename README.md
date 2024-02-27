@@ -25,7 +25,7 @@ OmniPrimer is designed to follow the exact clinical protocol to design primers a
 
 - **Step 3:** OmniPrimer will interact with [SNPCheck](https://genetools.org/SNPCheck/snpcheck.htm) to validate the quality of each primer pair previously generated. SNPs and amplicon size of each primer pair will be analysed to identify clinical-grade primers free from SNPs. Information of primers meeting the clinical criteria will be automatically downloaded.
 
-For further details, please consult the both the `Protocol.docx` and `Thesis_extract.pdf` files in **`docs/`**.
+For further details, please consult the both the `Protocol.docx` and `Thesis_extract.pdf` files in the **`docs/`** directory.
 
 ![Omniprimer_design](https://github.com/AlexUOM/OmniPrimer/assets/105374372/1b45a758-e90f-4fbd-9475-f84c09a339de)
 
@@ -40,7 +40,7 @@ To prove than OmniPrimer can process any gene and quantify the processing time, 
 
 ![OmniPrimer Timings](https://github.com/AlexUOM/OmniPrimer/assets/105374372/63303bec-3469-46f6-86a5-12a5af6518db)
 
-For further details on performance and validation, please consult the `Thesis_extract.pdf` file in the `**docs/**` directory.
+For further details on performance and validation, please consult the `Thesis_extract.pdf` file in the **`docs/`** directory.
 
 ## Repository Structure
 The repository is organized as follows:
