@@ -50,6 +50,8 @@ The repository is organized as follows:
 - **`README.md`**: This README file providing an overview of the repository and instructions for usage.
 
 ## Usage
+To assist with using OmniPrimer effectively, please refer to this [Demo video](https://www.youtube.com/watch?v=4tbjRinPUh4) on YouTube.
+
 To utilize OmniPrimer, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies (see Dependencies section).
